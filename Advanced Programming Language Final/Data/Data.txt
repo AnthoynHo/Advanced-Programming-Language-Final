@@ -1,0 +1,10 @@
+﻿{ 
+"warehouses": [
+	{"id": "W1", "inventory": {"Laptop": 5, "Mouse": 20}}, 
+	{"id": "W2", "inventory": {"Laptop": 2, "Keyboard": 10}} 
+	], 
+"orders": [ 
+	{"orderId": "O1001", "items": {"Laptop": 1, "Mouse": 2}}, 
+	{"orderId": "O1002", "items": {"Keyboard": 1}
+	}] 
+}
